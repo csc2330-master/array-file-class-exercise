@@ -1,0 +1,12 @@
+meatloaf 2.76
+apple 0.50
+pear 0.77
+oreos 2.25
+coke 1.05
+water 1.99
+gatorade 1.75
+kitkat 0.10
+paper 1.45
+computer 2000.00
+iphone 475.99
+printer 100.11
