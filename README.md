@@ -9,3 +9,4 @@ Finally, your program will show the invoice, and it will save this invoice into 
 As an exercise for you:
 * How could we save all the invoices for all the customers?
 * Would it be possible to not have two arrays for the products' names and their prices?
+* How could we output the products' names and quantities in the invoice? stringstream

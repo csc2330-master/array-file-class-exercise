@@ -17,6 +17,7 @@ using std::left;
 using std::right;
 using std::ostream;
 
+// github.com/csc2330-master/array-file-class-exercise
 
 void ShowProducts(const string products[], const double prices[], unsigned int size); // Parallel arrays
 void OutputInvoice(ostream& output, double total);
